@@ -56,5 +56,5 @@ Describe any challenges encountered while building the app.
     limitations under the License.
     
     
-#R.I.P David Bowie
+#R.I.P David Bowie (8th January 1947 – 10th January 2016)
 <img src='https://media4.giphy.com/media/yoJC2wQqhXpm97vdeg/200w.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
